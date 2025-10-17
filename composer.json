@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/vkid",
+    "name": "slvstrk/vkid",
     "description": "VK ID OAuth2 Provider for Laravel Socialite",
     "keywords": [
         "laravel",
